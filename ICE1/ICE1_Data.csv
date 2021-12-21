@@ -1,0 +1,423 @@
+DBN,Quality_Review_Score,Progress_Rpt_10-11,Student_Progress_10-11,graduation 2010-11,college enroll 2010-11
+01M292,Developing,C,C,0.563,0.519
+01M448,Developing,C,B,0.707,0.363
+01M450,Well Developed,A,B,0.716,0.692
+01M509,Proficient,C,C,0.564,0.477
+01M539,Proficient,A,A,0.953,0.87
+01M696,Well Developed,B,C,0.976,0.957
+02M047,Proficient,C,D,0.696,0.471
+02M288,Proficient,A,B,0.82,0.627
+02M294,Well Developed,B,B,0.675,0.483
+02M296,Proficient,A,A,0.793,0.56
+02M298,Well Developed,A,A,0.915,0.796
+02M300,Proficient,B,C,0.663,0.475
+02M303,Proficient,B,C,0.553,0.5
+02M305,Proficient,C,D,0.678,0.548
+02M308,Well Developed,A,A,0.762,0.478
+02M316,Proficient,B,C,0.803,0.64
+02M374,Proficient,C,C,0.778,0.404
+02M376,Well Developed,NA,NA,NA,NA
+02M392,Proficient,NA,NA,NA,NA
+02M393,Proficient,NA,NA,NA,NA
+02M399,Proficient,NA,NA,NA,NA
+02M400,Well Developed,B,C,0.832,0.756
+02M407,Well Developed,A,A,0.833,0.709
+02M408,Proficient,B,B,0.931,0.608
+02M411,Well Developed,A,A,1,0.981
+02M412,Proficient,A,B,0.964,0.774
+02M413,Well Developed,B,B,0.843,0.656
+02M414,Proficient,A,A,0.98,0.717
+02M416,Well Developed,A,A,1,0.969
+02M418,Well Developed,A,A,0.973,0.88
+02M419,Proficient,D,D,0.531,0.559
+02M420,Proficient,B,C,0.824,0.695
+02M422,Proficient,NA,NA,NA,NA
+02M425,Proficient,C,D,0.791,0.385
+02M427,NA,NA,NA,NA,NA
+02M432,NA,NA,NA,NA,NA
+02M437,NA,NA,NA,NA,NA
+02M438,NA,NA,NA,NA,NA
+02M439,Well Developed,A,A,0.978,0.82
+02M449,Proficient,B,C,0.663,0.351
+02M459,Proficient,B,B,0.585,0.391
+02M489,Well Developed,B,C,0.829,0.778
+02M500,Proficient,A,B,0.655,0.527
+02M507,NA,NA,NA,NA,NA
+02M519,Well Developed,B,A,0.952,0.75
+02M520,Developing,D,D,0.658,0.426
+02M529,Proficient,C,C,0.613,0.428
+02M531,Well Developed,B,A,0.8,0.367
+02M533,NA,NA,NA,NA,NA
+02M534,NA,NA,NA,NA,NA
+02M542,Well Developed,A,A,0.776,0.482
+02M543,Proficient,A,A,0.722,0.347
+02M545,Well Developed,A,A,0.974,0.87
+02M546,NA,NA,NA,NA,NA
+02M551,NA,A,B,0.689,0.442
+02M580,Proficient,C,D,0.608,0.574
+02M600,Well Developed,A,A,0.912,0.697
+02M605,Proficient,NA,NA,NA,NA
+02M615,Proficient,B,B,0.597,0.251
+02M630,Proficient,B,C,0.791,0.505
+02M655,Proficient,B,C,0.759,0.466
+03M299,Proficient,C,C,0.593,0.44
+03M307,Proficient,A,A,0.719,0.353
+03M402,Proficient,NA,NA,NA,NA
+03M403,Developing,NA,NA,NA,NA
+03M415,Developing,D,F,0.613,0.426
+03M417,NA,NA,NA,NA,NA
+03M479,Well Developed,A,A,0.986,0.817
+03M492,Well Developed,A,A,0.745,0.523
+03M494,Developing,C,D,0.718,0.368
+03M541,Proficient,B,B,0.875,0.923
+03M859,Well Developed,NA,NA,NA,NA
+03M860,Proficient,C,C,0.683,0.585
+04M372,Well Developed,NA,NA,NA,NA
+04M409,Developing,C,C,0.514,0.455
+04M435,Well Developed,A,B,0.92,0.757
+04M495,Proficient,A,B,0.735,0.409
+04M555,Proficient,A,A,0.806,0.379
+04M610,Proficient,A,B,0.984,0.982
+04M680,Developing,B,B,0.623,0.473
+05M304,Proficient,B,C,0.728,0.598
+05M362,Proficient,NA,NA,NA,NA
+05M367,Developing,C,C,0.865,NA
+05M369,Developing,D,C,0.7,0.397
+05M499,Proficient,C,F,0.917,0.805
+05M670,Developing,A,B,0.789,0.559
+06M293,Well Developed,NA,NA,NA,NA
+06M346,Developing,NA,NA,NA,NA
+06M348,Well Developed,NA,NA,NA,NA
+06M423,Proficient,NA,NA,NA,NA
+06M462,Well Developed,C,F,0.676,0.515
+06M463,Well Developed,C,C,0.607,0.453
+06M467,Well Developed,A,B,0.733,0.583
+06M468,Developing,D,F,0.609,0.403
+06M540,Well Developed,C,D,0.826,0.545
+06M552,Proficient,A,A,0.685,0.495
+07X221,Well Developed,A,A,0.912,0.615
+07X223,Well Developed,NA,NA,NA,NA
+07X334,Proficient,A,A,0.59,0.302
+07X427,Proficient,C,C,0.731,0.579
+07X473,Proficient,B,B,0.583,0.485
+07X495,Proficient,A,A,0.899,0.603
+07X500,Proficient,B,C,0.908,0.82
+07X520,Proficient,C,D,0.573,0.544
+07X522,NA,NA,NA,NA,NA
+07X527,Proficient,B,B,0.573,0.387
+07X547,Developing,B,B,0.5,0.217
+07X548,Proficient,A,B,0.866,0.663
+07X551,Proficient,A,B,0.831,0.605
+07X600,Underdeveloped,C,C,0.537,0.141
+07X670,Proficient,B,C,0.742,0.664
+08X269,Developing,NA,NA,NA,NA
+08X282,Developing,B,C,0.864,0.658
+08X293,Well Developed,B,B,0.717,0.353
+08X305,Proficient,B,B,0.514,0.274
+08X312,Well Developed,A,A,0.713,0.306
+08X332,Developing,D,F,0.59,0.286
+08X367,Developing,NA,NA,NA,NA
+08X376,Proficient,NA,NA,NA,NA
+08X405,Developing,F,F,0.506,0.418
+08X432,NA,NA,NA,NA,NA
+08X452,Developing,B,C,0.698,0.492
+08X519,Proficient,B,D,0.63,0.272
+08X530,Developing,C,D,0.556,0.327
+08X558,NA,NA,NA,NA,NA
+08X559,NA,NA,NA,NA,NA
+08X561,NA,NA,NA,NA,NA
+09X227,Proficient,B,B,0.473,0.364
+09X231,Proficient,B,C,0.716,0.563
+09X241,Well Developed,A,A,0.958,NA
+09X250,Proficient,B,B,0.741,0.475
+09X252,Well Developed,B,D,0.833,0.523
+09X260,Well Developed,A,A,0.847,0.683
+09X263,Well Developed,C,C,0.657,0.571
+09X276,Developing,C,C,0.575,0.303
+09X297,Proficient,B,B,0.686,0.301
+09X324,Proficient,NA,NA,NA,NA
+09X327,Well Developed,NA,NA,NA,NA
+09X329,Proficient,D,D,0.489,0.337
+09X365,Proficient,A,A,0.811,NA
+09X403,Well Developed,A,A,0.59,0.438
+09X404,Proficient,B,B,0.635,0.288
+09X412,Underdeveloped,C,C,0.508,0.304
+09X413,Proficient,C,C,0.783,0.712
+09X505,Proficient,C,C,0.707,0.626
+09X517,Developing,B,C,0.8,0.528
+09X525,Proficient,B,C,0.671,0.583
+09X543,Well Developed,A,B,0.765,0.319
+09X564,NA,NA,NA,NA,NA
+10X141,Proficient,A,B,0.87,0.784
+10X213,Proficient,C,D,0.69,0.422
+10X225,Proficient,NA,NA,NA,NA
+10X237,Proficient,B,B,0.641,0.662
+10X243,Proficient,C,C,0.586,0.324
+10X268,Proficient,B,A,0.593,0.241
+10X284,Proficient,B,B,0.694,0.465
+10X342,Well Developed,C,D,0.64,0.282
+10X368,Well Developed,C,C,0.771,0.5
+10X374,Well Developed,A,B,0.939,NA
+10X433,Proficient,B,A,0.702,0.307
+10X434,Proficient,A,B,0.726,0.423
+10X437,Developing,A,B,0.855,0.325
+10X438,Underdeveloped,D,D,0.457,0.311
+10X439,Proficient,B,C,0.531,0.299
+10X440,Underdeveloped,F,F,0.571,0.432
+10X442,Well Developed,C,C,0.788,0.548
+10X477,Outstanding (only an option in 2007-8),A,A,0.811,0.692
+10X524,NA,NA,NA,NA,NA
+10X546,Proficient,C,C,0.59,0.427
+10X549,Well Developed,A,A,0.622,0.415
+10X565,NA,NA,NA,NA,NA
+11X249,Proficient,A,A,0.917,0.672
+11X253,Proficient,C,C,0.615,0.397
+11X265,Well Developed,C,D,0.692,0.46
+11X270,Developing,D,D,0.575,0.5
+11X275,Proficient,A,B,0.762,0.517
+11X288,Proficient,A,A,0.806,0.653
+11X290,Proficient,A,A,0.709,0.54
+11X299,Developing,C,D,0.655,0.46
+11X418,Proficient,C,C,0.644,0.381
+11X455,Proficient,B,B,0.621,0.363
+11X508,NA,NA,NA,NA,NA
+11X509,NA,NA,NA,NA,NA
+11X513,Well Developed,B,B,0.545,0.516
+11X514,Proficient,C,C,0.464,0.183
+11X542,Proficient,B,B,0.925,0.791
+11X544,Well Developed,A,C,0.745,0.364
+11X545,Developing,NA,NA,NA,NA
+12X242,Well Developed,NA,NA,NA,NA
+12X248,Proficient,A,A,0.7,0.427
+12X251,Proficient,B,B,0.692,0.342
+12X267,Proficient,A,A,0.775,NA
+12X271,Proficient,B,B,0.75,0.347
+12X278,Developing,C,C,0.514,0.221
+12X372,Developing,NA,NA,NA,NA
+12X388,Well Developed,NA,NA,NA,NA
+12X478,Well Developed,NA,NA,NA,NA
+12X479,Developing,NA,NA,NA,NA
+12X511,NA,NA,NA,NA,NA
+12X521,NA,NA,NA,NA,NA
+12X682,Well Developed,A,C,0.588,0.424
+12X684,Proficient,C,D,0.576,0.542
+12X692,Proficient,B,B,0.477,0.274
+13K265,Proficient,B,A,0.795,0.395
+13K350,Proficient,D,F,0.6,0.49
+13K412,Proficient,C,C,0.663,0.338
+13K419,Proficient,A,B,0.802,0.399
+13K439,Well Developed,A,A,0.872,0.617
+13K483,Well Developed,B,B,0.864,0.798
+13K499,Well Developed,B,A,0.671,0.341
+13K527,Proficient,NA,NA,NA,NA
+13K595,Well Developed,A,A,0.967,0.921
+13K605,Developing,D,F,0.633,0.322
+13K670,Proficient,B,B,0.926,0.722
+13K674,Proficient,NA,NA,NA,NA
+14K071,Proficient,C,D,0.456,0.327
+14K322,Proficient,NA,NA,NA,NA
+14K454,Developing,B,C,0.593,0.316
+14K474,Proficient,C,C,0.629,0.38
+14K477,Developing,D,D,0.671,0.391
+14K478,Well Developed,A,B,0.847,0.432
+14K488,Proficient,B,C,0.79,0.507
+14K558,Proficient,A,A,0.882,0.505
+14K561,Well Developed,A,A,0.91,0.591
+14K586,Developing,A,B,0.615,NA
+14K610,Developing,C,C,0.536,0.185
+14K614,Well Developed,NA,NA,NA,NA
+14K632,Proficient,NA,NA,NA,NA
+14K685,Well Developed,A,A,0.689,0.268
+15K423,NA,NA,NA,NA,NA
+15K429,Proficient,B,B,0.613,0.462
+15K448,Proficient,A,C,0.909,0.684
+15K462,Developing,C,C,0.75,0.433
+15K463,Proficient,B,A,0.614,0.458
+15K464,Proficient,D,F,0.6,0.517
+15K497,Proficient,NA,NA,NA,NA
+15K519,Developing,B,B,0.574,0.295
+15K592,Proficient,NA,NA,NA,NA
+15K656,Proficient,B,B,0.885,0.52
+15K667,Well Developed,NA,NA,NA,NA
+15K684,NA,NA,NA,NA,NA
+16K393,Proficient,C,D,0.652,0.718
+16K455,Developing,F,F,0.457,0.197
+16K498,Proficient,B,C,0.773,0.373
+16K594,Developing,F,F,0.55,NA
+16K688,Developing,NA,NA,NA,NA
+17K122,NA,NA,NA,NA,NA
+17K382,Developing,D,D,0.617,0.647
+17K408,Developing,B,C,0.724,0.571
+17K524,Proficient,A,A,0.616,0.25
+17K528,Developing,C,C,0.533,0.486
+17K531,Proficient,A,B,0.787,0.433
+17K533,Developing,D,F,0.646,0.431
+17K537,Developing,C,C,0.587,0.461
+17K539,Well Developed,A,A,0.748,0.449
+17K543,Well Developed,B,B,0.943,0.934
+17K546,Well Developed,A,A,0.96,0.905
+17K547,Developing,B,B,0.703,0.523
+17K548,Proficient,B,B,0.705,0.391
+17K590,Proficient,B,C,0.975,0.684
+17K600,Proficient,C,C,0.662,0.481
+17K745,NA,NA,NA,NA,NA
+17K751,NA,NA,NA,NA,NA
+18K563,Well Developed,A,A,0.907,NA
+18K566,Proficient,C,C,0.551,NA
+18K567,Proficient,A,A,0.738,NA
+18K569,Proficient,C,C,0.663,NA
+18K576,Well Developed,A,A,0.81,NA
+18K589,Proficient,B,B,0.782,NA
+18K617,Proficient,NA,NA,NA,NA
+18K629,Proficient,NA,NA,NA,NA
+18K633,Well Developed,NA,NA,NA,NA
+18K637,"Underdeveloped with Proficient Features (only an option in 2007-8, 2008-9 and 2009-10)",NA,NA,NA,NA
+18K642,Proficient,NA,NA,NA,NA
+19K404,Well Developed,A,B,0.855,0.538
+19K409,Proficient,C,F,0.866,0.6
+19K502,Developing,NA,NA,NA,NA
+19K504,Proficient,B,C,0.715,0.212
+19K507,Developing,B,C,0.629,0.396
+19K510,Well Developed,C,C,0.663,0.305
+19K583,Developing,C,C,0.519,NA
+19K615,Proficient,B,D,0.852,0.43
+19K618,Proficient,NA,NA,NA,NA
+19K639,Proficient,NA,NA,NA,NA
+19K659,Developing,D,D,0.531,0.389
+19K660,Developing,A,A,0.607,0.165
+19K683,Well Developed,NA,NA,NA,NA
+20K445,Well Developed,B,C,0.71,0.522
+20K485,Outstanding (only an option in 2007-8),A,A,0.8,0.69
+20K490,Well Developed,B,C,0.703,0.57
+20K505,Proficient,B,B,0.591,0.425
+20K609,Developing,NA,NA,NA,NA
+21K337,Developing,B,B,0.492,0.382
+21K344,Proficient,B,B,0.675,0.408
+21K348,Proficient,B,D,0.565,0.5
+21K410,Proficient,C,C,0.635,0.466
+21K468,Well Developed,NA,NA,NA,NA
+21K525,Well Developed,B,C,0.76,0.662
+21K540,Developing,C,C,0.659,0.521
+21K559,Proficient,B,B,0.784,NA
+21K572,Proficient,D,C,0.412,NA
+21K620,Proficient,B,B,0.504,0.3
+21K690,Proficient,C,C,0.723,0.562
+22K405,Well Developed,C,C,0.867,0.828
+22K425,Well Developed,B,C,0.733,0.592
+22K535,Well Developed,A,B,0.958,0.862
+22K555,Proficient,A,A,0.987,0.89
+23K493,Proficient,B,C,0.642,0.352
+23K514,Proficient,A,B,0.769,0.467
+23K644,Well Developed,NA,NA,NA,NA
+23K697,Proficient,A,B,0.736,0.357
+24Q264,Well Developed,A,A,0.906,0.761
+24Q267,Proficient,A,B,0.705,0.644
+24Q293,Proficient,NA,NA,NA,NA
+24Q296,Developing,D,D,0.475,NA
+24Q299,Proficient,A,A,0.964,0.96
+24Q455,Underdeveloped,C,D,0.624,0.465
+24Q485,Proficient,C,C,0.578,0.385
+24Q520,Proficient,C,D,0.782,0.366
+24Q530,Well Developed,A,A,0.802,0.475
+24Q550,Well Developed,A,A,0.796,0.478
+24Q560,Proficient,C,C,0.746,0.5
+24Q585,NA,NA,NA,NA,NA
+24Q600,Well Developed,B,B,0.767,0.428
+24Q610,Well Developed,A,A,0.879,0.65
+25Q252,Proficient,NA,NA,NA,NA
+25Q263,Proficient,B,B,0.587,0.407
+25Q281,Well Developed,B,A,0.843,0.767
+25Q285,Well Developed,A,A,0.903,0.768
+25Q425,Proficient,B,B,0.66,0.383
+25Q460,Developing,D,D,0.604,0.358
+25Q525,Well Developed,A,A,1,1
+25Q670,Proficient,C,C,0.742,0.487
+26Q415,Proficient,B,C,0.853,0.716
+26Q430,Proficient,A,B,0.875,0.68
+26Q435,Developing,D,D,0.643,0.453
+26Q495,Well Developed,A,B,0.862,0.745
+26Q566,Well Developed,B,C,0.881,0.702
+27Q260,Proficient,C,D,0.695,0.547
+27Q262,Proficient,A,A,0.901,0.704
+27Q302,Proficient,NA,NA,NA,NA
+27Q308,Proficient,NA,NA,NA,NA
+27Q309,Developing,NA,NA,NA,NA
+27Q323,Well Developed,A,A,1,NA
+27Q324,NA,NA,NA,NA,NA
+27Q351,NA,NA,NA,NA,NA
+27Q400,Developing,D,D,0.67,0.314
+27Q475,Developing,D,C,0.586,0.354
+27Q480,Developing,C,C,0.641,0.33
+27Q650,Proficient,A,A,0.979,0.593
+28Q167,NA,NA,NA,NA,NA
+28Q284,Proficient,NA,NA,NA,NA
+28Q310,Well Developed,NA,NA,NA,NA
+28Q325,NA,NA,NA,NA,NA
+28Q328,NA,NA,NA,NA,NA
+28Q350,NA,NA,NA,NA,NA
+28Q440,Proficient,A,B,0.844,0.649
+28Q505,Proficient,A,B,0.756,0.529
+28Q620,Well Developed,A,B,0.877,0.697
+28Q680,Proficient,B,B,0.99,0.898
+28Q686,NA,NA,NA,NA,NA
+28Q690,Proficient,B,C,0.785,0.512
+28Q896,Developing,C,C,0.947,NA
+29Q248,Proficient,A,A,0.674,0.398
+29Q259,Proficient,B,B,0.803,0.656
+29Q265,Well Developed,B,B,0.678,0.436
+29Q272,Proficient,B,C,0.813,0.65
+29Q283,Proficient,C,C,0.684,0.45
+29Q326,NA,NA,NA,NA,NA
+29Q327,NA,NA,NA,NA,NA
+29Q492,Developing,C,C,0.746,0.455
+29Q498,Proficient,B,C,0.761,0.515
+30Q286,Proficient,NA,NA,NA,NA
+30Q301,Well Developed,NA,NA,NA,NA
+30Q445,Developing,C,D,0.565,0.434
+30Q450,Proficient,C,C,0.657,0.429
+30Q501,Well Developed,B,B,0.934,0.836
+30Q502,Proficient,B,B,0.726,0.489
+30Q555,Well Developed,A,A,0.726,0.435
+30Q575,Proficient,B,B,0.89,0.813
+30Q580,Proficient,B,B,1,0.903
+31R047,Proficient,A,A,0.941,0.901
+31R064,Proficient,NA,NA,NA,NA
+31R080,Proficient,A,B,0.866,0.817
+31R440,Well Developed,A,B,0.756,0.473
+31R445,Well Developed,C,C,0.639,0.414
+31R450,Well Developed,B,C,0.698,0.456
+31R455,Well Developed,B,B,0.835,0.639
+31R460,Well Developed,A,A,0.812,0.647
+31R600,Well Developed,B,B,0.63,0.366
+32K168,NA,NA,NA,NA,NA
+32K403,Proficient,A,A,0.728,0.382
+32K545,Underdeveloped,F,F,0.601,0.448
+32K549,Proficient,A,A,0.683,0.55
+32K552,Proficient,B,C,0.634,0.252
+32K554,Well Developed,A,A,1,0.581
+32K556,Proficient,C,C,0.489,0.314
+02M139,NA,NA,NA,NA,NA
+02M135,NA,NA,NA,NA,NA
+05M157,NA,NA,NA,NA,NA
+10X264,NA,NA,NA,NA,NA
+10X351,NA,NA,NA,NA,NA
+08X349,NA,NA,NA,NA,NA
+07X259,NA,NA,NA,NA,NA
+08X320,NA,NA,NA,NA,NA
+08X348,NA,NA,NA,NA,NA
+10X353,NA,NA,NA,NA,NA
+22K611,NA,NA,NA,NA,NA
+30Q258,NA,NA,NA,NA,NA
+29Q243,NA,NA,NA,NA,NA
+24Q236,NA,NA,NA,NA,NA
+25Q241,NA,NA,NA,NA,NA
+25Q240,NA,NA,NA,NA,NA
+03M485,Outstanding (only an option in 2007-8),A,B,0.982,0.861
+31R605,Proficient,A,A,1,0.99
+02M475,Well Developed,A,B,0.985,0.854
+05M692,Well Developed,A,B,0.982,0.934
+10X696,Well Developed,A,A,1,0.936
+13K430,Proficient,B,B,0.977,0.867
+10X445,Well Developed,A,A,1,0.994
+14K449,Well Developed,B,B,0.914,0.961
+28Q687,Proficient,A,B,1,0.972
