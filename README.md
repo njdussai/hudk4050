@@ -3,3 +3,4 @@
 This repo has the material developed for the course HUDK Core Methods in Educational Data Mining.
 
 There are ICE assignments (that are coding excercises) and the 4 analysis challenge assignments.
+It also contains a reflective essay based on my experience in this course.
